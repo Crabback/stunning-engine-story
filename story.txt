@@ -1,1 +1,6 @@
 On a regular Tuesday, Prof.Deppler is giving a lecture.
+
+
+She was finishing up a lecture on Red-Black trees, and everyone was quickly writing down notes. "Any questions?" Asked Prof. Deppler
+
+Nobody raised their hands because everyone in lecture is a genius who will definitely invent the next big social media site and become billionaires, shaping the landscape of how we interact with one another. Of course for now, we're stuck trying to wrap our heads around how to implement the insert method for a Red-Black tree.
