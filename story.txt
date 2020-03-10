@@ -9,4 +9,4 @@ The day ends and the the sun rises the following morning. Everyone is regretting
 
 Meanwhile, Prof. Deppler was sitting in her cozy couch, with her laptop opened, surfing Piazza. She laughed a lot when she saw there were a lot of students who do not know how to implement p2, but she didn't reply to any of the posts on Piazza. She knew the nightmare just started--the midterm would actually be the biggest boss for the first half of the semester!
 
-At the end of the semester, no one got an A in the class. Prof. Deppler's rate my professor goes down by 0.1, and the class was renamed as CS 500.
+At the end of the semester, no one got an A in the class. Prof. Deppler's rate my professor went down by 0.1, and the class was renamed as CS 500.
