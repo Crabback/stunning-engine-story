@@ -8,3 +8,5 @@ Nobody raised their hands because everyone in lecture is a genius who will defin
 The day ends and the the sun rises the following morning. Everyone is regretting not asking any questions and Piazza floods with posts regarding p2. Not only does everyone not know how to implement the insert method for the Red-Black tree, they have also forgotten how to implement the ADT for a regular binary search tree. p2 has become the recursive nightmare that all CS400 students feared they would encounter. Eventually, p2 will be finished but will it be enough for the midterm?
 
 Meanwhile, Prof. Deppler was sitting in her cozy couch, with her laptop opened, surfing Piazza. She laughed a lot when she saw there were a lot of students who do not know how to implement p2, but she didn't reply to any of the posts on Piazza. She knew the nightmare just started--the midterm would actually be the biggest boss for the first half of the semester!
+
+At the end of the semester, no one got an A in the class. Prof. Deppler's rate my professor goes down by 0.1, and the class was renamed as CS 500.
